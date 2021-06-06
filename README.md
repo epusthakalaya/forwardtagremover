@@ -1,1 +1,1 @@
-# forwardtagremover
+# Forward Tag Remover Bot
